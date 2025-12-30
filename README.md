@@ -6,26 +6,19 @@
 ---
 
 ## 현재 하고 있는 것
-- 백준 알고리즘 문제 풀이 및 풀이 기록
-- C++ 기반의 자료구조/알고리즘 복습
-- 문제 접근 방식과 디버깅 과정을 정리한 블로그 운영 중
+- 백준 알고리즘 문제 풀이 및 풀이 기록 -> 백준 허브를 통해 문제 풀이시 커밋 자동화
+- C++ 기반의 자료구조/알고리즘 복습 -> 현재는 자바로 언어를 바꾸어서 다시 기록 중
 
 ---
 
 ## 사용 중인 언어/도구
-- 언어 : C++
-- 도구 : Git & GitHub, Visual Studio Code
+- 언어 : C++ -> Java
+- 도구 : Git & GitHub, Visual Studio Code -> Intellij IDEA
 
 ---
 
 ## 알고리즘 풀이 저장소
-[baekjoon-practice 바로가기](https://github.com/youngjae-dev/baekjoon-practice)  
-문제별로 "코드 + 풀이 과정 + 시행착오"를 정리해서 관리하고 있습니다.
-
----
-
-## 블로그
-- [네이버 블로그](https://blog.naver.com/bmyj0122) - 문제 접근 방식과 디버깅 과정을 정리하고 있습니다.
+[CodingTest](https://github.com/youngjae-dev/CodingTest)
 
 ---
 
