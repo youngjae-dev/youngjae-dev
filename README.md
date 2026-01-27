@@ -17,6 +17,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![cplusplus](https://github.com/user-attachments/assets/fcd6f36f-a316-4271-b20a-1058dcaf9c59)
 
 ---
 
