@@ -1,4 +1,4 @@
-# 안녕하세요, 신영재입니다
+# 🚀 신영재 | Backend Developer
 
 알고리즘 문제를 꾸준히 풀고, 그 과정을 기록하고 있는 개발자 지망생입니다.
 작은 것부터 차근차근 해보자는 생각으로 매일 문제를 풀고, 틀린 이유, 헷갈린 포인트를 정리해서 다시는 같은 실수를 반복하지 않으려고 노력하고 있습니다.
@@ -6,19 +6,28 @@
 ---
 
 ## 현재 하고 있는 것
-- 백준 알고리즘 문제 풀이 및 풀이 기록 -> 백준 허브를 통해 문제 풀이시 커밋 자동화
-- C++ 기반의 자료구조/알고리즘 복습 -> 현재는 자바로 언어를 바꾸어서 다시 기록 중
+- 백준 알고리즘 문제 풀이 및 풀이 기록
+- Java 기반의 자료구조/알고리즘 공부
+- 블로그 만들기 Toy Project 진행중
 
 ---
 
-## 사용 중인 언어/도구
-- 언어 : C++ -> Java
-- 도구 : Git & GitHub, Visual Studio Code -> Intellij IDEA
+## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 알고리즘 풀이 저장소
+- **백준(BOJ)**: [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=youngjae-dev)](https://solved.ac/youngjae-dev)
 [CodingTest](https://github.com/youngjae-dev/CodingTest)
+
+---
+
+## 진행중인 프로젝트
+[블로그만들기](https://github.com/youngjae-dev/Toy_Project_Blog)
 
 ---
 
