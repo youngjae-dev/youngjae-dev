@@ -21,7 +21,8 @@
 ---
 
 ## 알고리즘 풀이 저장소
-- **백준(BOJ)**: [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=youngjae-dev)](https://solved.ac/ten9253)
+- **백준(BOJ)**: ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ten9253)
+
 - [CodingTest](https://github.com/youngjae-dev/CodingTest)
 
 ---
