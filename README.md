@@ -36,7 +36,6 @@
 ---
 
 ## 진행중인 프로젝트
-[블로그만들기](https://github.com/youngjae-dev/Toy_Project_Blog)
 
 ---
 
